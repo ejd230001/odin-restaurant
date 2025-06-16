@@ -1,0 +1,9 @@
+.homeWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.welcome {
+    font-size: 2rem;
+}
